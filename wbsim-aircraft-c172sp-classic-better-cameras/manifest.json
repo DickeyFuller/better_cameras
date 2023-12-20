@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "WBSim C172 Classic Better Cameras",
+  "manufacturer": "Asobo",
+  "creator": "Dickey Fuller",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.19.0",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

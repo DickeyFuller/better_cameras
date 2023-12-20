@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/wbsim_C172SP_Classic/cameras.cfg",
+      "size": 29384,
+      "date": 132892538960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/wbsim_C172SP_Classic_Floats/cameras.cfg",
+      "size": 29384,
+      "date": 132892538960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/wbsim_C172SP_Classic_NoPants/cameras.cfg",
+      "size": 29384,
+      "date": 132892538960000000
+    },
+	{
+      "path": "SimObjects/Airplanes/wbsim_C172SP_Classic_Skis/cameras.cfg",
+      "size": 29384,
+      "date": 132892538960000000
+    }
+  ]
+}
